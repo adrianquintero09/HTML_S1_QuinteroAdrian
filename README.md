@@ -15,5 +15,5 @@ A continuacion veras una guia para descargar este repositorio
 Abre la terminal
 ```
 ```bash
-git clone 
+git clone https://github.com/adrianquintero09/HTML_S1_QuinteroAdrian
 ```
