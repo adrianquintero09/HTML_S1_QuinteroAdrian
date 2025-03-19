@@ -1,0 +1,163 @@
+.Rectangle {
+    width: 1400px;
+    height: 800px;
+    position: relative;
+    top: -10;
+    margin-left: -10;
+}
+
+
+.Metrolinea{
+    width: 196px;
+    height: 44px;
+    position: absolute;
+    left: 100px;  
+    top: 30px;   
+    transform: translate(-50%, -50%); 
+}
+
+
+.Comprar{
+    width: 196px;
+    height: 44px;
+    position: absolute;
+    left: 870px;  
+    top: 50px;   
+    transform: translate(-50%, -50%); 
+}
+
+
+.VerSaldo{
+    width: 196px;
+    height: 44px;
+    position: absolute;
+    left: 1100px;  
+    top: 50px;   
+    transform: translate(-50%, -50%); 
+}
+
+
+.Buscador{
+    width: 196px;
+    height: 44px;
+    position: absolute;
+    left: 1250px;  
+    top: 60px;   
+    transform: translate(-50%, -50%); 
+}
+
+
+.Carrito{
+    left: 1230px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -760px;
+    transform: translate(-50%, -50%); 
+}
+
+
+.Rectangle2{
+    left: 1300px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -825px;
+    transform: translate(-50%, -50%); 
+}
+
+
+.flecha1{
+    left: 1350px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -825px;
+    transform: translate(-50%, -50%); 
+}
+
+
+.cantidad{
+    left: 1325px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -750px;
+    transform: translate(-50%, -50%); 
+}
+
+
+.Menu{
+    left: 1350px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -600px;
+    transform: translate(-50%, -50%); 
+}
+
+
+.flecha2{
+    left: 1350px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -200px;
+    transform: translate(-50%, -50%); 
+}
+
+.Tarjeta1{
+    left: 135px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -850px;
+    transform: translate(-50%, -50%); 
+}
+
+.Texto1{
+    left: 135px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -450px;
+    transform: translate(-50%, -50%); 
+}
+
+.Texto2{
+    left: 135px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -420px;
+    transform: translate(-50%, -50%); 
+}
+
+.Button{
+    left: 1000px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -420px;
+    transform: translate(-50%, -50%);  
+}
+
+
+.Texto3{
+    left: 1030px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -420px;
+    transform: translate(-50%, -50%);
+}
+
+
+.Texto4{
+    left: 1025px;
+    width: 33px;
+    height: 32px;
+    position: relative;
+    top: -420px;
+    transform: translate(-50%, -50%);
+}
